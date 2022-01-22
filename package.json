@@ -10,7 +10,7 @@
       "lib": "src"
     },
     "dependencies": {
-      "jquery": "github:components/jquery@^3.4.1",
+      "jquery": "3.6.0",
       "jquery-trend": "npm:jquery-trend@^0.1.0"
     },
     "devDependencies": {
